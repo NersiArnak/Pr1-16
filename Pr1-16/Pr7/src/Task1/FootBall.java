@@ -39,7 +39,7 @@ public class FootBall extends JFrame {
 
         JButton madridButton = new JButton("Real Madrid");
         madridButton.setBackground(Color.blue);
-        madridButton.setForeground(Color.white);
+        madridButton.setForeground(Color.green);
         madridButton.setFont(fnt);
         madridButton.addActionListener(new ActionListener() {
             @Override
